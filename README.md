@@ -2,26 +2,23 @@
 
 
 # Codificación legible
-## 1. Comentarios y documentación
+## Limite la longitud de la línea.
 
-En esta fracción del codigo se observa que cumple con la documentación sin necesidad de hacer comentarios redundantes.
-
-
-## 2. Sangría consistente
-La sangría se usa de forma adecuada permitiendo la visualización de un código ordenado y fácil de leer.
-![](imagenes/estilo2.jpeg)
-
-## 3. Agrupación de código 
-En fracciones de código se ve un comentario
-En cada porción de código que se va analizando se observa mediante un comentario el comportamiento que tiene dicha porción.
+Una buena práctica de legibilidad de código es tener un límite de líneas para no dificultar la lectura del programador, a la hora de analizar los algoritmos, como se observa en la imagen, tiene un límite de menos de 90 caracteres, por lo que hace ver al código parcialmente estrecho.
 ![](imagenes/estilo1.jpeg)
 
+## 2. Sangría consistente
+Se debe tener una buena sangría tanto para diferenciar qué línea de código está dentro de otra línea de código, como se puede apreciar en la imagen, hace que el código se vea más limpio y ordenado.
+![](imagenes/estilo2.jpeg)
 
-## 4. Organización de archivos y carpetas
-Es recomendable dividir carpetas y archivos para una mejor distribución del proyecto.
-<br> <img src="imagenes/estilo5.jpeg" width="400" height="750">
-
-## 5. Evite la anidación profunda
-Se debe de evitar la anidación profunda, ya se si no se cumpla con esta práctica el código sería menos entendible.
+## 3. Evite el anidamiento profundo
+No se debe tener anidamiento profundo, como se observa en esta parte del código, haciéndolo más entendible y legible.
 ![](imagenes/estilo3.jpeg)
+
+
+## 4. Use nombres significativos para variables y funciones.
+Esta es una muy buena práctica de codificación legible, ya que, como se tiene en esta fracción de código, hay tanto variables como funciones que dan mucho sentido al comportamiento que tiene el código en general
+<br> <img src="imagenes/estilo4.jpeg" width="400" height="750">
+
+
 
