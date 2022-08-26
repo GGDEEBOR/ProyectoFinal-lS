@@ -18,7 +18,7 @@ No se debe tener anidamiento profundo, como se observa en esta parte del código
 
 ## 4. Use nombres significativos para variables y funciones.
 Esta es una muy buena práctica de codificación legible, ya que, como se tiene en esta fracción de código, hay tanto variables como funciones que dan mucho sentido al comportamiento que tiene el código en general
-<br> <img src="imagenes/estilo4.jpeg" width="400" height="750">
+<br> <img src="imagenes/estilo4.jpeg">
 
 
 
