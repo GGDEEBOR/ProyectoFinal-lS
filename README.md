@@ -1,8 +1,9 @@
 # ProyectoFinal-lS
 
 # Estilos de programación
-## Trinity
+## 1. Trinity
 Se divide en modelo vista y controlador.
+
 ![](imagenes/estilo-programacion2.jpeg)
 
 ## 2. Code golf
