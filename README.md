@@ -1,5 +1,21 @@
 # ProyectoFinal-lS
 
+# Principios SOLID
+## 1. Open/Closed
+Se pueden añadir mas funcionalidades en la clase Administrador, sin modificar el comportamiento de la clase.
+
+![](imagenes/solid1.jpeg)
+
+## 2. Single Responsibility
+Todas las clases tiene su propio comportamiento, por lo que no pueden compartir funcionalidades similares, como en el ejemplo, en la clase evento, solo y solo esa clase tiene las funcionalidades que se pueden apreciar.
+
+![](imagenes/solid2.jpeg)
+
+
+
+
+
+
 # Estilos de programación
 ## 1. Trinity
 Se divide en modelo vista y controlador.
