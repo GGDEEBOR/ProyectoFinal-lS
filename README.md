@@ -1,5 +1,16 @@
 # ProyectoFinal-lS
 
+# Estilos de programación
+## Trinity
+Se divide en modelo vista y controlador.
+![](imagenes/estilo-programacion2.jpeg)
+
+## 2. Code golf
+Menor cantidad de líneas de código posibles.
+![](imagenes/estilo-programacion1.jpeg)
+
+
+
 
 # Codificación legible
 ## Limite la longitud de la línea.
